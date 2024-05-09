@@ -27,7 +27,9 @@ KNEW ABOUT GET POST PATCH
 
 Day 4:
 -> Nested if
--> Compare 2 and 3 number
+-> Compare 2 and 3 number (&& || ! == ===)
+-> BMI Calculation
+-> Function (WITHOUT RETURN, WITH PARAMETER, WITH RETURN)
 
 
 
