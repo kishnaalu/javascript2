@@ -12,16 +12,36 @@
 // name1="suraj"
 // console.log(name2,"second")
 
-const collegename="Butwal Kalika Campus"
-const batch=2022;
-const studentname="Sonu Thapa";
-const uniregno=760454;
-const faculty= "BCA"
-const location="Butwal"
-console.log(`My name is ${studentname}. My faculty is ${faculty} in ${collegename}. It is located in ${location}.`)
+// const collegename="Butwal Kalika Campus"
+// const batch=2022;
+// const studentname="Sonu Thapa";
+// const uniregno=760454;
+// const faculty= "BCA"
+// const location="Butwal"
+// console.log(`My name is ${studentname}. My faculty is ${faculty} in ${collegename}. It is located in ${location}.`)
 
-let token="access_token=ghjghfjhfjh"
-let key=token.split("=")[0]
-console.log(key)
-console.log(token.split("=")[1]);
+// let token="access_token=ghjghfjhfjh"
+// let key=token.split("=")[0]
+// console.log(key)
+// console.log(token.split("=")[1]);
 
+// Nested if
+let age=2
+if(age<18){
+    console.log("Not an adult")
+} else if(age>=18 && age<=60){
+    console.log("Adult")
+}else{
+    console.log("Old enough")
+}
+
+//Compare number 
+let a=12
+let b=16
+if(a>b){
+    console.log("A is greater",a)
+}else if(a<b){
+    console.log("B is greater" , b)
+}else{
+    console.log("both are equal")
+}
