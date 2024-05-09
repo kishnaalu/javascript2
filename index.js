@@ -1,3 +1,8 @@
+// down extension thunder client 
+// search dummy json 
+// copy url and paste in new request
+//https://hoppscotch.io/
+
 // console.log("hello world");
 // console.log("my name is sonu");
 
