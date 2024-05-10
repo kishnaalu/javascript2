@@ -81,3 +81,8 @@ if(BMI<18.5){
 
 bmicalculator()
 
+let num1
+console.log(typeof num1)
+if(num1){
+    console.log("its working")
+}
