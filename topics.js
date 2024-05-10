@@ -32,6 +32,11 @@ Day 4:
 -> Function (WITHOUT RETURN, WITH PARAMETER, WITH RETURN)
 
 
+Day 5:
+-> switch statement
+-> ternanry operator
+-> use strict by using "use strict"
+-> function (arrow func)
 
 
 

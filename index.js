@@ -62,29 +62,45 @@
 // }
 
 
-function bmicalculator(){
-    console.log("BMI Calculated")
-let weight = 45
-let height = 1.5 //in M
-let BMI = weight/(height ** height)
-console.log(`Your BMI is: ${BMI}`)
-if(BMI<18.5){
-    console.log("You are UNDERWEIGHT")
-} else if(BMI>18.5 && BMI<25){
-    console.log("You are NORMAL")
-} else if(BMI>25 && BMI<30){
-    console.log("You are OVERWEIGHT")
-} else{
-    console.log("You are OBESE")
-}
-}
+// function bmicalculator(){
+//     console.log("BMI Calculated")
+// let weight = 45
+// let height = 1.5 //in M
+// let BMI = weight/(height ** height)
+// console.log(`Your BMI is: ${BMI}`)
+// if(BMI<18.5){
+//     console.log("You are UNDERWEIGHT")
+// } else if(BMI>18.5 && BMI<25){
+//     console.log("You are NORMAL")
+// } else if(BMI>25 && BMI<30){
+//     console.log("You are OVERWEIGHT")
+// } else{
+//     console.log("You are OBESE")
+// }
+// }
 
-bmicalculator()
+// bmicalculator()
 
-let num1
-console.log(typeof num1)
-if(num1){
-    console.log("its working")
+// let num1
+// console.log(typeof num1)
+// if(num1){
+//     console.log("its working")
+// }
+// let age = 18
+// const drink1 = age>=18? "Wine" : "Milk";
+// console.log(`I can drink ${drink1}`)
+
+// let bill=40
+// const tip = bill>=50 && bill<=300 ? (bill*0.15) : (bill*0.2)
+// console.log(`Bill: ${bill}, Tip: ${tip}`)
+// console.log(`Pay: ${bill+tip}`)
+
+"use strict"
+let hasdriverslicense = false
+const passtest = true
+if(passtest){
+    hasdriverslicense = false
+} 
+if(hasdriverslicense) {
+console.log("i can drive")
 }
-
-// sonu
