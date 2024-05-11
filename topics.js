@@ -39,6 +39,9 @@ Day 5:
 -> function (arrow func)
 
 
+Day 6:
+-> array (java6.html , java6.js)
+-> object (java6.html , java6.js)
 
 
 
