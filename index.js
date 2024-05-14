@@ -86,3 +86,4 @@ console.log(typeof num1)
 if(num1){
     console.log("its working")
 }
+console.log("suraj")
