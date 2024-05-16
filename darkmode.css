@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#box{
+    height: 150px;
+    width: 30%;
+    background-color: peru;
+    padding: 30px;
+    color: black;
+    box-shadow: 0 0 5px 3px black;
+    border-radius: 10px;
+}
+#box input{
+    height: 40px;
+    width: 95px;
+    background-color: rgb(87, 57, 27);
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+body{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.dark #box{
+    background-color: rgb(48, 48, 48);
+    border: white;
+    box-shadow: 0 0 5px 3px white;
+    color: white;
+}
+.dark #box input{
+    background-color: rgb(233, 152, 72);
+}
